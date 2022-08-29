@@ -1,4 +1,5 @@
 file1.txt contains a list of strings.
 each line has one string.
 example
+test
 pull example
