@@ -3,4 +3,3 @@ each line has one string.
 example
 test
 pull example
-
